@@ -68,7 +68,6 @@ The dataset was explored using different visualization techniques to better unde
 - Target Variable Distribution
 - Correlation Heatmap
 - Histograms
-- Boxplots
 - Feature Distribution
 
 ---

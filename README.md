@@ -159,6 +159,7 @@ Diabetes-Risk-Assessment/
 🎓 B.Tech CSE (AI & ML)
 
 📌 CodTech AI Internship Project
+Intern ID - CITS5312
 
 ---
 
